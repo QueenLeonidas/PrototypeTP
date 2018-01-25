@@ -5,9 +5,9 @@ using UnityEngine;
 public class Levitate1 : MonoBehaviour {
 
     [Tooltip("Rotate speed in angle per second")]
-    public float rotateSpeed = 6f;
-    public float levitateSpeed = 6f;
-    public float levitateHeight = 16f;
+    public float rotateSpeed = -12f;
+    public float levitateSpeed = 5f;
+    public float levitateHeight = 12f;
 
     // Use this for initialization
     void Start () {
@@ -16,6 +16,6 @@ public class Levitate1 : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        //transform.Rotate(Vector3.up, rotateSpeed * Time.deltaTime);
+        transform.Rotate(Vector3.up, rotateSpeed * Time.deltaTime);
 	}
 }
