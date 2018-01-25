@@ -5556,11 +5556,11 @@ Prefab:
     m_Modifications:
     - target: {fileID: 22449092, guid: 39aa6e3f7c442a04d997c9ed23f46981, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 258.5
+      value: 293
       objectReference: {fileID: 0}
     - target: {fileID: 22449092, guid: 39aa6e3f7c442a04d997c9ed23f46981, type: 2}
       propertyPath: m_LocalPosition.y
-      value: 145.5
+      value: 165
       objectReference: {fileID: 0}
     - target: {fileID: 22449092, guid: 39aa6e3f7c442a04d997c9ed23f46981, type: 2}
       propertyPath: m_LocalPosition.z
@@ -5750,7 +5750,7 @@ Light:
   serializedVersion: 8
   m_Type: 1
   m_Color: {r: 1, g: 0.96916837, b: 0.7205882, a: 1}
-  m_Intensity: 0.95
+  m_Intensity: 0.54
   m_Range: 10
   m_SpotAngle: 30
   m_CookieSize: 10
