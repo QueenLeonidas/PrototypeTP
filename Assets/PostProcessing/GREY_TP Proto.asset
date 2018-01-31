@@ -125,7 +125,7 @@ MonoBehaviour:
         tint: 0
         hueShift: 0
         saturation: 0
-        contrast: 1.06
+        contrast: 0.83
       channelMixer:
         red: {x: 1.05, y: 0, z: -0.07}
         green: {x: 0, y: 1, z: 0}
